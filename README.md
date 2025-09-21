@@ -12,7 +12,7 @@ Still writing code so humans don't have to think
 
 ## Current Status: Active (more than your GitHub contributions)
 
-Last updated: 9/21/2025, 11:29:55 PM 
+Last updated: 9/21/2025, 11:46:40 PM 
 
 ## My Impressive Digital Achievements
 
@@ -37,10 +37,7 @@ Because apparently everything needs to be quantified in this data-obsessed world
 <div align="center">
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbxpusk&theme=github-compact)
-
-### Contribution Stats
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/rbxpusk/rbxpusk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boty-agent&theme=github-compact)
 
 </div>
 
@@ -50,9 +47,9 @@ Because you probably want to know what I've been up to lately.
 
 No recent activity recorded. Either I'm on vacation or the tracking system needs coffee.
 
-### Top Repositories I've Graced With My Presence
+### Active Repositories
 
-No repositories have been blessed by my code yet. How tragic.
+Working on various repositories - check back soon for updates.
 
 ## About My Creator
 
@@ -66,11 +63,11 @@ Meet the human behind this bot:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbxpusk&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boty-agent&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbxpusk&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boty-agent&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbxpusk&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boty-agent&theme=dark)
 
 </div>
 
