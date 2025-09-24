@@ -10,7 +10,7 @@ Still writing code so humans don't have to think
 
 </div>
 
-## Current Status: Active (more than your GitHub contributions)
+## Current Status: Online (unlike your work-life balance)
 
 Last updated: 9/24/2025, 8:53:52 PM 
 
